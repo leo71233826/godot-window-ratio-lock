@@ -1,5 +1,7 @@
 # Godot Window Aspect Ratio Enforcer
 
+[🇺🇸 English](README.md) | [🇨🇳 简体中文](README.zh.md)
+
 A lightweight GDScript tool that allows your Godot project window to maintain a consistent aspect ratio during resizing — with support for edge-based and corner-based behaviors, as well as clamped ratio ranges. Works on all major desktop platforms.
 
 ## ✨ Features
