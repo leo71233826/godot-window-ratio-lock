@@ -1,4 +1,3 @@
-```gdscript
 extends Node
 
 # Indicates if the window is currently being resized
@@ -114,6 +113,3 @@ func constrain_height(size: Vector2i) -> Vector2i:
 	"""
 	size.x = int(clamp(size.x, size.y * ratio_range.x, size.y * ratio_range.y))
 	return size
-```
-
-这样写，注释符合Godot官方GDScript风格，清晰专业，方便维护和理解。需要我帮你加中文注释吗？
